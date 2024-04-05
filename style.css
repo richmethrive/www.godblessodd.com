@@ -1,0 +1,27 @@
+body {
+    background-image: url(mh.jpg)
+}
+
+
+/*styling h1/*
+.h1{
+    text-align:  center; 
+    text-transform: capitalize;
+    color: black;
+}
+
+.h2{
+    text-align: center;
+    text-transform: capitalize;
+    color: green;
+}
+
+.p{
+    text-align: center;
+    text text-transform: none;
+    color: black;
+}
+.img{
+    justify-content: center;
+    display: position: fixed;
+}
